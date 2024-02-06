@@ -23,7 +23,7 @@ const NavBar = () => {
         <li><a>Item 3</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">daisyUI</a>
+    <a className="btn btn-ghost text-xl">Kavinax</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -31,11 +31,6 @@ const NavBar = () => {
     </ul>
   </div>
  
-  {/* <div className="navbar-end gap-2">
-  <Link>Login</Link>
-    <a style={{color:'
-#FF5017'}} className="btn">Button</a>
-  </div> */}
   <div className="navbar-end gap-2">
   <Link>Login</Link>
   <a style={{ background: '#FF5017' }} className="btn text-white">Button</a>
